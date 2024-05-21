@@ -13,6 +13,7 @@ class App extends Component {
         <main>
           <h3>Add this title and rebuild</h3>
           <p>All of the rebuild stuff should happen with Jenkins....</p>
+          <p>Just adding another line of text.</p>
         </main>
       </div>
     );
